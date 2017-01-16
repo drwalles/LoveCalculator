@@ -1,0 +1,9 @@
+c:\users\drw\documents\visual studio 2015\Projects\LoveCalculator\LoveCalculator\bin\Debug\LoveCalculator.exe.config
+C:\Users\DRW\Documents\Visual Studio 2015\Projects\LoveCalculator\LoveCalculator\obj\Debug\LoveCalculator.csprojResolveAssemblyReference.cache
+C:\Users\DRW\Documents\Visual Studio 2015\Projects\LoveCalculator\LoveCalculator\obj\Debug\LoveCalculator.Form1.resources
+C:\Users\DRW\Documents\Visual Studio 2015\Projects\LoveCalculator\LoveCalculator\obj\Debug\LoveCalculator.Properties.Resources.resources
+C:\Users\DRW\Documents\Visual Studio 2015\Projects\LoveCalculator\LoveCalculator\obj\Debug\LoveCalculator.csproj.GenerateResource.Cache
+C:\Users\DRW\Documents\Visual Studio 2015\Projects\LoveCalculator\LoveCalculator\bin\Debug\LoveCalculator.exe
+C:\Users\DRW\Documents\Visual Studio 2015\Projects\LoveCalculator\LoveCalculator\bin\Debug\LoveCalculator.pdb
+C:\Users\DRW\Documents\Visual Studio 2015\Projects\LoveCalculator\LoveCalculator\obj\Debug\LoveCalculator.exe
+C:\Users\DRW\Documents\Visual Studio 2015\Projects\LoveCalculator\LoveCalculator\obj\Debug\LoveCalculator.pdb
